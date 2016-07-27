@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/relativeLayout"
+    android:padding="5dp">
+
+    <ImageView android:id="@+id/imgIcon"
+        android:paddingTop="2dp"
+        android:paddingLeft="2dp"
+        android:paddingBottom="2dp"
+        android:paddingRight="2dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_searche"
+        android:scaleType="centerCrop"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        />
+
+
+
+    <TextView android:id="@+id/txtHotelTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:textColor="@color/primary_text"
+        android:text="Surprise"
+        android:layout_toEndOf="@id/imgIcon"
+        android:layout_marginBottom="2dp"
+        />
+
+    <TextView android:id="@+id/txthotelphone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:textSize="12dp"
+        android:textColor="@color/secondary_text"
+        android:layout_below="@+id/txtHotelTitle"
+        android:layout_toEndOf="@+id/imgIcon"
+        android:layout_marginBottom="2dp"
+        android:text="test phone"
+
+        />
+    <TextView android:id="@+id/txtHotelAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:textSize="12dp"
+        android:textColor="@color/secondary_text"
+        android:layout_below="@+id/txthotelphone"
+        android:layout_toEndOf="@+id/imgIcon"
+        android:layout_marginBottom="2dp"
+        android:text="test adress"
+
+        />
+
+
+
+
+    <ImageButton
+        android:id="@+id/callicon"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignEnd="@+id/txtHotelTitle"
+        android:background="@drawable/phoneiconholder"
+        android:src="@drawable/ic_phone"
+        android:scaleType="centerInside"
+        android:layout_centerVertical="true"
+
+        />
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Welcome Screen title and description-->
+    <string name="app_name">Gotta Love Algeria</string>
+     <string name="next">Suivant</string>
+    <string name="play_again">Voir à nouveau</string>
+    <string name="play_again_desc">Pour voir à nouveau le curseur de bienvenue, allez dans Paramètres -> Applications -> curseur accueil -> effacer les donnés</string>
+    <string name="skip">Passer</string>
+    <string name="slide_1_desc">La meilleure façon de trouver et réserver un #Hotel a proximité de vous en Algérie!</string>
+    <string name="slide_1_title">Hotels!</string>
+    <string name="slide_2_desc"><![CDATA[Découvrez les meilleurs restaurants autour de vous et découvrir des plats traditionnels étonnants.]]></string>
+    <string name="slide_2_title"><![CDATA[Restaurant & Plats]]></string>
+    <string name="slide_4_desc">Besoin d\'un Taxi? allez-y, avec un simple click!</string>
+    <string name="slide_3_title">Snap! Snap!</string>
+    <string name="slide_3_desc">Trouvez les meilleurs endroits pour prendre des photos étonnantes.</string>
+    <string name="slide_4_title">Appellez un taxi</string>
+    <string name="start">Compris!</string>
+    <!-- Welcome Screen title and description-->
+
+    <!-- Main Activity Menu And description-->
+    <string name="SurpriseTitle">La Surprise</string>
+    <string name="PartnerTitle">Nos partenaires</string>
+    <string name="BukalatTitle">Bukalat !</string>
+    <string name="FollowUsTitle">Suivez-nous sur les réseaux sociaux</string>
+    <string name="SurpriseDesc">Juste pour les fans GLA , vous pouvez découvrir la surprise  ici.</string>
+    <string name="PartnerDesc"><![CDATA[Découvrez  ces entreprises extraordinaires qui croit en nous.]]></string>
+    <string name="HotelSearchTitle">Trouvez un hotel ou appler un Taxi</string>
+    <string name="HotelSearchDesc">Trouvez ou reserver un hotel avec un simple click.</string>
+    <string name="FollowUsDesc">Rejoignez-nous sur Facebook ou Twitter.</string>
+    <string name="BukalatDesc">Juste un peu d\'amusement pour vous les gars!</string>
+    <!-- Main Activity Menu And description-->
+
+
+</resources>

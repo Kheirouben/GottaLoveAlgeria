@@ -1,0 +1,47 @@
+<resources>
+    <!--..............................................................................................................................................................................................-->
+    <!-- General APP INFO -->
+    <string name="app_name">Gotta Love Algeria</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <!-- General APP INFO -->
+    <!--..............................................................................................................................................................................................-->
+    <!-- Welcome Screen title and description-->
+        <string name="slide_1_title">Hotels!</string>
+    <string name="slide_1_desc">The easiest way to find and book a nearby #Hotel in Algeria!</string>
+
+    <string name="slide_2_title"><![CDATA[Restaurant & Food]]></string>
+    <string name="slide_2_desc">Find out about best restaurants around you and discover amazing traditional dishes.</string>
+
+    <string name="slide_3_title">Snap! Snap!</string>
+    <string name="slide_3_desc">Find the best places to shoot amazing photos.</string>
+
+    <string name="slide_4_title">Call A Taxi</string>
+    <string name="slide_4_desc"> Need a ride? go ahead, it is just one tap away!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+      <!-- Welcome Screen title and description-->
+    <!--..............................................................................................................................................................................................-->
+        <!-- Main Activity Menu And description-->
+    <string name="SurpriseTitle">The Surprise</string>
+    <string name="SurpriseDesc">Just for GLA fans , you can find out the surprise that we have been working on here.</string>
+    <string name="HotelSearchTitle">Find:Hotel,Taxi,Restaurant</string>
+    <string name="HotelSearchDesc">Find our book an Hotel with one simple click.</string>
+    <string name="FollowUsTitle">Follow Us On Social Media</string>
+    <string name="FollowUsDesc">Join us on Facebook or Twitter.</string>
+    <string name="PartnerTitle">Our Partners</string>
+    <string name="PartnerDesc">Find out about those amazing companies who believes in us .</string>
+    <string name="BukalatTitle">Bukalat !</string>
+    <string name="BukalatDesc">Just some fun for you guys !</string>
+      <!-- Main Activity Menu And description-->
+    <!--..............................................................................................................................................................................................-->
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_footer" translatable="false">ca-app-pub-3361712470457056/6466607649</string>
+    <string name="interstitial_full_screen" translatable="false">ca-app-pub-3361712470457056/9420074043</string>
+
+
+
+</resources>
